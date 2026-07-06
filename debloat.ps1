@@ -43,8 +43,8 @@ $LogoSource = ""                     # e.g. "https://example.com/logo.png" or "C
 # downloaded and installed as selectable themes. The FIRST one in the list
 # is also set as the default theme for new users.
 $ThemepackUrls = @(
-     "https://github.com/IshikDeveloper/makdows/raw/refs/heads/11/CatppuccinMocha.themepack",
-     "https://github.com/IshikDeveloper/makdows/raw/refs/heads/11/Makdows11.themepack"
+     "https://github.com/IshikDeveloper/makdows/raw/refs/heads/11/Makdows11.themepack",
+     "https://github.com/IshikDeveloper/makdows/raw/refs/heads/11/CatppuccinMocha.themepack"  
 )
 
 # URL or local path to the image shown during first-boot OOBE setup.
